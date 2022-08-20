@@ -1,0 +1,11 @@
+.login-canvas {
+    background: linear-gradient(110deg, var(--primary-color) 55%, white 45%);
+}
+
+.login-container{
+    filter: drop-shadow(0 0 0.75rem var(rgb(69, 70, 70)));
+    background: linear-gradient(110deg,  white 57.8% , var(--primary-color) 45%);
+    display: grid;
+    grid-template-columns: 1.3fr 1fr;
+    align-items: center;
+}
