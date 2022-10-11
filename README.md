@@ -1,8 +1,8 @@
 # bank
 
-1. bank-frontend Contains the frontend react application
+1. This repo Contains the frontend react application
 
-Add ".env" in frontend with content pasted below
+Add ".env" in frontend with content pasted below in order to use the application
 ```
 REACT_APP_API_URL="http://localhost:8080"
 ```
